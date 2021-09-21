@@ -1,0 +1,2 @@
+The work is unfinished.
+And I add a new line not staged for commit.
